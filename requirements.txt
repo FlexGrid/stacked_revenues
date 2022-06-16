@@ -1,2 +1,2 @@
-pyomo
 glpk
+Pyomo==5.7.3
